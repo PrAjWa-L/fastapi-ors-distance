@@ -19,7 +19,7 @@ This FastAPI app calculates driving distance between two coordinates using the O
 **Response:**
 ```json
 {
-  "distance_km": 327.27
+  "distance_km": 5.14
 }
 ```
 
