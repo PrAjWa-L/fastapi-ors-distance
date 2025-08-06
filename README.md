@@ -4,6 +4,8 @@ This FastAPI app calculates driving distance between two coordinates using the O
 
 ## Endpoint
 
+*USE* `/docs` *for sending post requests through browse*
+
 **POST** `/get-distance/`
 
 **Request:**
